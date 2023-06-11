@@ -7,7 +7,7 @@ import cargoIcon from '../../../assets/cargo.png';
 import passengerIcon from '../../../assets/passenger.png';
 import specialTransportIcon from '../../../assets/specialTransport.png';
 import { useAppDispatch, useAppSelector } from '../../hooks/redux';
-import { Vehicle } from '../../../vehicles';
+import { Vehicle } from '../../utils/vehicles';
 import { SET_SELECTED_VEHICLE } from '../../store/Slices/vehiclesSlice';
 
 const styles = StyleSheet.create({

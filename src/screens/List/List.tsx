@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { StyleSheet, Text, ScrollView, TouchableOpacity } from 'react-native';
 import { IndexPath } from '@ui-kitten/components';
 import { useIsFocused, useNavigation } from '@react-navigation/native';
-import { data } from '../../../vehicles';
+import { data } from '../../utils/vehicles';
 import DropDown from '../../components/DropDown/DropDown';
 import { NavigationProps } from '../../types/navigation';
 import { useAppDispatch } from '../../hooks/redux';

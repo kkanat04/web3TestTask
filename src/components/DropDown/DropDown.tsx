@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet } from 'react-native';
 import { IndexPath, Layout, Select, SelectItem } from '@ui-kitten/components';
-import { data } from '../../../vehicles';
+import { data } from '../../utils/vehicles';
 import { i18n } from '../../../i18n';
 
 const styles = StyleSheet.create({

@@ -1,6 +1,6 @@
 import { createSlice } from '@reduxjs/toolkit';
 import type { PayloadAction } from '@reduxjs/toolkit';
-import { data, Data, Vehicle } from '../../../vehicles';
+import { data, Data, Vehicle } from '../../utils/vehicles';
 
 interface initialStateType {
   allVehicle: Data;
