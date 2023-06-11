@@ -1,0 +1,14 @@
+{
+  "selectVehicles": "Select vehicle",
+  "all": "All",
+  "cargo": "Cargo",
+  "passenger": "Passenger",
+  "specialTransport": "Special transport",
+  "category": "Category",
+  "driverName": "Driver name",
+  "phone": "Phone",
+  "locationDriver": "View the location of the driver",
+  "call": "Call",
+  "sendMessageOnWhatsApp": "Send message on WhatsApp",
+  "setting": "Choose language"
+}

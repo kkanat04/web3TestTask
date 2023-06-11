@@ -1,0 +1,14 @@
+{
+  "selectVehicles": "Выберите транспортные средства",
+  "all": "Все",
+  "cargo": "Грузовой",
+  "passenger": "Пассажирский",
+  "specialTransport": "Спецтранспорт",
+  "category": "Категория",
+  "driverName": "Имя водителя",
+  "phone": "Контактный номер водителя",
+  "locationDriver": "Посмотреть местонахождение водителя",
+  "call": "Позвонить",
+  "sendMessageOnWhatsApp": "Отправить сообщение в WhatsApp",
+  "setting": "Выберите язык"
+}
